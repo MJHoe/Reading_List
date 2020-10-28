@@ -1,0 +1,9 @@
+dataset/VOCdevkit
+dataset/voc.txt
+weight/*
+*__pycache__
+### IntelliJ IDEA ###
+*.idea
+
+### VS Code ###
+.vscode/
